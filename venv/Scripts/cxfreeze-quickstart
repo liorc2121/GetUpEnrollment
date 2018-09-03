@@ -1,0 +1,5 @@
+#!C:\Users\Lior\PycharmProjects\KinectAndFun\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
